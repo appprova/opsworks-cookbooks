@@ -1,3 +1,0 @@
-[submodule "opsworks-rails-precompile"]
-	path = opsworks-rails-precompile
-	url = git@github.com:swrobel/opsworks-rails-precompile.git
